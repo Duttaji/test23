@@ -1,0 +1,9 @@
+"""This letter is to formally request a review of the denial of the denial of [CPTs] due to “timely filing.” The delay in claim submission was caused by a delay in the credentialing or provider enrollment process, which was beyond our control. Despite this, services were rendered while credentialing was in process. Our provider, [Provider Name], submitted credentialing and enrollment paperwork to [Insurance Company Name] on [Credentialing Submission Date]. However, the credentialing was not completed until [Credentialing Approval Date], and the delay prevented timely submission of claims for services rendered during this period.
+
+Given the delay was due to the credentialing process and not provider error, we respectfully request that this claim be reprocessed. Most payers allow for filing extensions under such circumstances, and we believe this situation qualifies for such an exception.
+"""
+
+
+This letter is to formally request a review of the denial of 102340 due to “timely filing.” The claim was initially submitted on 25/04/2025 to the wrong payer, but it was promptly resubmitted to the correct payer on 25/05/2025 after the error was identified. Documentation confirming this original submission is attached.
+
+We respectfully request that this claim be reprocessed based on the attached proof of the original submission and subsequent resubmission to the correct payer. The delay was unintentional, and the claim was initially submitted well within the required filing deadline.
